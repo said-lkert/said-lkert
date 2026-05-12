@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=Mohamed-Said%20LKERT&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Tizi-Ouzou%2C%20Algeria&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0F6E56&height=200&section=header&text=Mohamed-Said%20LKERT&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Tizi-Ouzou%2C%20Algeria&descSize=18&descAlignY=58" width="100%"/>
 </div>
 
 ---
