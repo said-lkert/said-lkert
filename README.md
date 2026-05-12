@@ -97,7 +97,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 <br/>
 
-### ⚙️ SIT-ERP &nbsp;·&nbsp; `En cours`
+### ⚙️ SIT-ERP &nbsp;·&nbsp; `En cours` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
 > **ERP modulaire complet** conçu et développé pour une vraie entreprise de solutions technologiques — de zéro.
 
 **Stack :** `React` `Laravel` `PHP` `MySQL` `REST API` `JWT Auth` `Docker`
@@ -112,7 +112,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 ---
 
-### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel`
+### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
 > **Interface de gestion de projet temps réel**, conçue pour les équipes qui trouvent GitHub insuffisant. Connectée nativement à GitHub via webhooks — chaque commit compte.
 
 **Stack :** `React` `Node.js` `WebSocket` `GitHub API` `AI`
@@ -129,7 +129,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 ---
 
-### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel`
+### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
 > **Interface web connectée à [OpenClaw](https://openclaw.ai)**, une plateforme open-source MIT permettant de faire tourner plusieurs agents IA autonomes, chacun avec sa propre mémoire, sa personnalité (SOUL.md) et son rôle — sur ton propre serveur.
 
 **Stack :** `React` `Python` `WebSocket` `OpenClaw` `Multi-Agent AI` `Ollama / Claude`
@@ -142,15 +142,6 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 - 💰 **100% gratuit et auto-hébergé** — fonctionne avec Ollama (local) ou Claude Pro, 0€/mois sur Oracle Always Free
 
 *L'interface que j'ai construite rend OpenClaw accessible, lisible, et contrôlable visuellement.*
-
----
-
-## 🎓 Formation
-
-| Période | Diplôme | Établissement |
-|---------|---------|---------------|
-| 2023 — 2026 | Licence Systèmes Informatiques | UMMTO — Université Mouloud Mammeri, Tizi Ouzou |
-| Été 2024 | Stage — Développeur Full-Stack | Solutions Tech, Tizi Ouzou |
 
 ---
 
