@@ -1,27 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=00d4ff&height=200&section=header&text=Mohamed%20Said%20LKERT&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect%20%7C%20UMMTO&descSize=17&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Mohamed%20Said%20LKERT&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58&animation=twinkling" width="100%"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/said-lkert">
+    <img src="https://komarev.com/ghpvc/?username=said-lkert&color=00d4ff&style=flat-square&label=Profile+views" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Building%20things%20that%20matter-00d4ff?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Tizi%20Ouzou%2C%20Algeria%20🇩🇿-00d4ff?style=flat-square"/>
+</div>
+
+<br/>
 
 ---
 
-## 👋 À propos de moi
+## `$ whoami`
 
-```js
-const said = {
+```typescript
+const said: Developer = {
+  name:       "Mohamed Said LKERT",
   role:       "Full-Stack Developer & Systems Architect",
   location:   "Tizi Ouzou, Algérie 🇩🇿",
-  university: "UMMTO — Licence Systèmes Informatiques (L3)",
-  currently:  "Architecturing a full ERP system 🚀",
-  passions:   ["Clean Architecture", "IoT / Robotique", "Open Source", "IA / ML"],
-  available:  true,
+  university: "UMMTO — Licence Systèmes Informatiques (L3, promo 2026)",
+
+  currentlyBuilding: [
+    "SIT-ERP       → ERP modulaire complet pour une vraie entreprise",
+    "GitTrack       → Gestion de projet temps réel connectée à GitHub + IA",
+    "OpenClaw UI    → Interface web pour écosystème multi-agent IA",
+  ],
+
+  passions:    ["Clean Architecture", "Multi-Agent AI Systems", "Real-Time Systems", "Open Source"],
+  available:   true,
+  funFact:     "Je build des ERP le jour, des agents IA la nuit ☕",
 };
 ```
-
-- 🔭 En train de construire un **ERP modulaire complet** (React + Laravel + MySQL)
-- 🎓 Étudiant en **L3 Systèmes Informatiques** à l'UMMTO — diplôme prévu **2026**
-- 🤖 Passionné par la **robotique autonome** et l'**IoT**
-- 🌱 En train d'approfondir **Docker**, **architecture micro-services** et **WebSocket**
-- ⚡ Fun fact : Je conçois des systèmes distribués ET des robots qui évitent les obstacles ☕
 
 ---
 
@@ -42,6 +58,7 @@ const said = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Outils & Systèmes
@@ -53,54 +70,76 @@ const said = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets
 
-### ⚙️ SIT-ERP — *En cours*
-> ERP modulaire complet architecturé pour une entreprise de solutions technologiques
+> Des projets réels, construits pour résoudre de vrais problèmes.
 
-**Stack :** React · Laravel · PHP · MySQL · REST API · JWT Auth
+<br/>
 
-- 🏗️ Architecture modulaire découplée (micro-services)
-- 🔐 Authentification JWT avec gestion des rôles
+### ⚙️ SIT-ERP &nbsp;·&nbsp; `En cours`
+> **ERP modulaire complet** conçu et développé pour une vraie entreprise de solutions technologiques — de zéro.
+
+**Stack :** `React` `Laravel` `PHP` `MySQL` `REST API` `JWT Auth` `Docker`
+
+**Ce que ça fait :**
+- 🏗️ Architecture modulaire découplée — chaque module est indépendant et extensible
+- 🔐 Auth JWT avec système de rôles et permissions granulaires
 - 📊 Dashboard analytique avec graphiques temps réel
-- 📦 Modules : RH · Facturation · Projets · Stock · Reporting
+- 📦 Modules : **RH · Facturation · Projets · Stock · Reporting**
+
+*Projet en production pour un client réel — pas un side project.*
 
 ---
 
-### 🎓 Plateforme E-Learning — *Terminé*
-> Plateforme de cours en ligne avec suivi de progression et système de quiz
+### 🔀 GitTrack &nbsp;·&nbsp; `En cours`
+> **Interface de gestion de projet temps réel**, conçue pour les équipes qui trouvent GitHub insuffisant. Connectée nativement à GitHub via webhooks — chaque commit compte.
 
-**Stack :** PHP · Laravel · MySQL · Bootstrap
+**Stack :** `React` `Node.js` `WebSocket` `GitHub API` `AI`
 
-- Publication de contenu par les enseignants
-- Suivi de progression des étudiants
-- Système de quiz intégré et génération de certificats
+**Ce que ça fait :**
+- 🔗 **Connexion GitHub OAuth réelle** — chaque membre se connecte avec son vrai compte
+- ⚡ **Sync temps réel** — chaque commit apparaît instantanément dans l'interface, sans refresh
+- 🤖 **Association automatique par IA** — l'IA lit la description du commit et l'associe à la bonne tâche, ce qui incrémente l'avancement du projet automatiquement
+- 📋 **Sections dédiées** : Avancement du projet · Tasks · Activity feed · Panel IA
+- 🎯 **Redistribution intelligente des tâches** — l'IA peut proposer une répartition optimale selon la durée estimée et le nombre de contributeurs
+- ⚙️ **Entièrement flexible** — adapté par projet ET par contributeur
 
----
-
-### 🤖 Robot Autonome IoT — *En cours*
-> Robot capable d'éviter des obstacles et contrôlable à distance via interface web
-
-**Stack :** Arduino · C++ · Python · WebSocket
-
-- Évitement d'obstacles avec capteurs ultrasoniques
-- Interface de contrôle en temps réel via WebSocket
+*Née d'un vrai problème : GitHub + Jira, c'est trop fragmenté. GitTrack centralise tout.*
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 OpenClaw Interface &nbsp;·&nbsp; `En cours`
+> **Interface web connectée à [OpenClaw](https://openclaw.ai)**, une plateforme open-source MIT permettant de faire tourner plusieurs agents IA autonomes, chacun avec sa propre mémoire, sa personnalité (SOUL.md) et son rôle — sur ton propre serveur.
+
+**Stack :** `React` `Python` `WebSocket` `OpenClaw` `Multi-Agent AI` `Ollama / Claude`
+
+**Ce que ça fait :**
+- 🧠 **Architecture multi-agents** — plusieurs IA spécialisées collaborent entre elles pour répondre à un besoin complexe (ex : équipe santé avec un nutritionniste, un coach fitness, un spécialiste bien-être, et un coordinateur)
+- 💾 **Mémoire persistante par agent** — chaque agent se souvient de l'historique complet de ses interactions, même après redémarrage
+- 📡 **Routing intelligent** — le coordinateur reçoit tous les messages, analyse l'intention, et dispatche vers le bon agent automatiquement
+- 🔌 **Interface Telegram / Discord** — un message sur Telegram peut déclencher toute une chaîne de traitement entre agents
+- 💰 **100% gratuit et auto-hébergé** — fonctionne avec Ollama (local) ou Claude Pro, 0€/mois sur Oracle Always Free
+
+*L'interface que j'ai construite rend OpenClaw accessible, lisible, et contrôlable visuellement.*
+
+---
+
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=said-lkert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-lkert&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=said-lkert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-lkert&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&bg_color=0d1117" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=said-lkert&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=said-lkert&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=said-lkert&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -114,7 +153,7 @@ const said = {
 
 ---
 
-## 🌐 Me retrouver
+## 🌐 Me trouver
 
 <div align="center">
 
@@ -127,11 +166,6 @@ const said = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=said-lkert&color=00d4ff&style=flat-square&label=Profile+views" />
-  <br/>
-  <sub>Construit avec passion et trop de café ☕</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
+  <sub>Construit avec passion — et oui, beaucoup de café ☕</sub>
 </div>
