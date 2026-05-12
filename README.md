@@ -33,27 +33,11 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
   </tr>
   <tr>
     <td>💼</td>
-    <td>Stage Développeur Full-Stack · Solutions Tech, Tizi Ouzou · Été 2024</td>
-  </tr>
-  <tr>
-    <td>🔭</td>
-    <td>En train de construire un <strong>ERP complet</strong> pour un vrai client en production</td>
+    <td>Stage Développeur Full-Stack · Solutions IT, Tizi Ouzou · 2026</td>
   </tr>
   <tr>
     <td>🌱</td>
     <td>En train d'approfondir <strong>Docker</strong>, <strong>micro-services</strong> et <strong>systèmes multi-agents IA</strong></td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>Passionné par la <strong>Clean Architecture</strong>, le <strong>Real-Time</strong> et l'<strong>Open Source</strong></td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td>Je build des ERP le jour, des agents IA la nuit ☕</td>
-  </tr>
-  <tr>
-    <td>📬</td>
-    <td>Disponible pour collaborer ou discuter d'un projet</td>
   </tr>
 </table>
 
