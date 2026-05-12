@@ -129,7 +129,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 <div align="center">
   <a href="https://github.com/said-lkert/NOM-DU-REPO">
-    <img src="https://img.shields.io/badge/⭐ Voir le projet sur GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⭐ Voir le projet sur GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </div>
 
