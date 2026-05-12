@@ -117,7 +117,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 ---
 
 ### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel`
-[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
+[🔗 Voir le repo →](https://github.com/said-lkert/FitMind-AI)
 
 > **Interface web connectée à [OpenClaw](https://openclaw.ai)**, une plateforme open-source MIT permettant de faire tourner plusieurs agents IA autonomes, chacun avec sa propre mémoire, sa personnalité (SOUL.md) et son rôle — sur ton propre serveur.
 
