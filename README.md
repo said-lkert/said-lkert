@@ -127,15 +127,12 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 *Née d'un vrai problème : GitHub + Jira, c'est trop fragmenté. GitTrack centralise tout.*
 
-<div align="center">
-  <a href="https://github.com/said-lkert/NOM-DU-REPO">
-    <img src="https://img.shields.io/badge/⭐ Voir le projet sur GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</div>
 
 ---
 
-### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
+### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel`
+[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
+
 > **Interface web connectée à [OpenClaw](https://openclaw.ai)**, une plateforme open-source MIT permettant de faire tourner plusieurs agents IA autonomes, chacun avec sa propre mémoire, sa personnalité (SOUL.md) et son rôle — sur ton propre serveur.
 
 **Stack :** `React` `Python` `WebSocket` `OpenClaw` `Multi-Agent AI` `Ollama / Claude`
