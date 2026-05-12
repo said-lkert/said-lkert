@@ -18,26 +18,44 @@
 
 ---
 
-## `$ whoami`
+## 👋 À propos de moi
 
-```typescript
-const said: Developer = {
-  name:       "Mohamed Said LKERT",
-  role:       "Full-Stack Developer & Systems Architect",
-  location:   "Tizi Ouzou, Algérie 🇩🇿",
-  university: "UMMTO — Licence Systèmes Informatiques (L3, promo 2026)",
+Salut ! Je suis **Mohamed Said LKERT**, développeur full-stack et architecte systèmes basé à **Tizi Ouzou, Algérie 🇩🇿**.
+Actuellement en L3 Systèmes Informatiques à l'**UMMTO** (promo 2026), je conçois des systèmes complets —
+des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
-  currentlyBuilding: [
-    "SIT-ERP       → ERP modulaire complet pour une vraie entreprise",
-    "GitTrack       → Gestion de projet temps réel connectée à GitHub + IA",
-    "OpenClaw UI    → Interface web pour écosystème multi-agent IA",
-  ],
+<br/>
 
-  passions:    ["Clean Architecture", "Multi-Agent AI Systems", "Real-Time Systems", "Open Source"],
-  available:   true,
-  funFact:     "Je build des ERP le jour, des agents IA la nuit ☕",
-};
-```
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>UMMTO</strong> — Licence Systèmes Informatiques, L3 · promo 2026</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td>Stage Développeur Full-Stack · Solutions Tech, Tizi Ouzou · Été 2024</td>
+  </tr>
+  <tr>
+    <td>🔭</td>
+    <td>En train de construire un <strong>ERP complet</strong> pour un vrai client en production</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>En train d'approfondir <strong>Docker</strong>, <strong>micro-services</strong> et <strong>systèmes multi-agents IA</strong></td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Passionné par la <strong>Clean Architecture</strong>, le <strong>Real-Time</strong> et l'<strong>Open Source</strong></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td>Je build des ERP le jour, des agents IA la nuit ☕</td>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td>Disponible pour collaborer ou discuter d'un projet</td>
+  </tr>
+</table>
 
 ---
 
@@ -94,7 +112,7 @@ const said: Developer = {
 
 ---
 
-### 🔀 GitTrack &nbsp;·&nbsp; `En cours`
+### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel`
 > **Interface de gestion de projet temps réel**, conçue pour les équipes qui trouvent GitHub insuffisant. Connectée nativement à GitHub via webhooks — chaque commit compte.
 
 **Stack :** `React` `Node.js` `WebSocket` `GitHub API` `AI`
@@ -111,7 +129,7 @@ const said: Developer = {
 
 ---
 
-### 🤖 OpenClaw Interface &nbsp;·&nbsp; `En cours`
+### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel`
 > **Interface web connectée à [OpenClaw](https://openclaw.ai)**, une plateforme open-source MIT permettant de faire tourner plusieurs agents IA autonomes, chacun avec sa propre mémoire, sa personnalité (SOUL.md) et son rôle — sur ton propre serveur.
 
 **Stack :** `React` `Python` `WebSocket` `OpenClaw` `Multi-Agent AI` `Ollama / Claude`
@@ -124,23 +142,6 @@ const said: Developer = {
 - 💰 **100% gratuit et auto-hébergé** — fonctionne avec Ollama (local) ou Claude Pro, 0€/mois sur Oracle Always Free
 
 *L'interface que j'ai construite rend OpenClaw accessible, lisible, et contrôlable visuellement.*
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=said-lkert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said-lkert&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&bg_color=0d1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=said-lkert&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0d1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=said-lkert&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" width="100%"/>
-</div>
 
 ---
 
