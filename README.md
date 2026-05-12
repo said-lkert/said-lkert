@@ -127,6 +127,12 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 *Née d'un vrai problème : GitHub + Jira, c'est trop fragmenté. GitTrack centralise tout.*
 
+<div align="center">
+  <a href="https://github.com/said-lkert/NOM-DU-REPO">
+    <img src="https://img.shields.io/badge/⭐ Voir le projet sur GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
 ---
 
 ### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
