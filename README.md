@@ -97,7 +97,8 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 <br/>
 
-### ⚙️ SIT-ERP &nbsp;·&nbsp; `En cours` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
+### ⚙️ SIT-ERP &nbsp;·&nbsp; `⌛ En cours` 
+[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
 > **ERP modulaire complet** conçu et développé pour une vraie entreprise de solutions technologiques — de zéro.
 
 **Stack :** `React` `Laravel` `PHP` `MySQL` `REST API` `JWT Auth` `Docker`
@@ -112,7 +113,8 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 ---
 
-### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel` &nbsp;·&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/said-lkert/NOM-DU-REPO)
+### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel` 
+[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
 > **Interface de gestion de projet temps réel**, conçue pour les équipes qui trouvent GitHub insuffisant. Connectée nativement à GitHub via webhooks — chaque commit compte.
 
 **Stack :** `React` `Node.js` `WebSocket` `GitHub API` `AI`
