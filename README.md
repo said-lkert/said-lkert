@@ -116,6 +116,23 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 
 ---
 
+### 🎟️ Qless &nbsp;·&nbsp; `✅ Fonctionnel`
+[🔗 Voir le repo →](https://github.com/said-lkert/Qless) &nbsp;·&nbsp; [🌐 Voir la démo →](https://qless-v1.vercel.app/)
+> **Application de gestion intelligente des files d'attente**, pensée pour réserver à distance, suivre son tour en direct et éviter l'attente physique inutile.
+
+**Stack :** `React` `TypeScript` `Vite` `Leaflet` `Firebase` `Tailwind CSS`
+
+**Ce que ça fait :**
+- 🗺️ **Carte interactive** avec recherche, filtres par wilaya, commune et catégorie
+- 🎫 **Réservations à distance** avec tickets live ou créneaux planifiés selon le service
+- ⏱️ **Suivi temps réel** de la file, estimation d'attente et notifications quand le tour approche
+- 📱 **Expérience mobile-first** avec QR code de réservation, favoris et mode sombre
+- 🌍 **Interface multilingue** en français, anglais et arabe
+
+*Qless transforme une attente subie en expérience pilotable depuis son téléphone.*
+
+---
+
 ### 🧠 FitMind AI &nbsp;·&nbsp; `✅ Fonctionnel`
 [🔗 Voir le repo →](https://github.com/said-lkert/FitMind-AI)
 
