@@ -98,7 +98,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 ---
 
 ### 🔀 GitTrack &nbsp;·&nbsp; `✅ Fonctionnel` 
-[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
+[🔗 Voir le repo →](https://github.com/said-lkert/gittrack)
 > **Interface de gestion de projet temps réel**, conçue pour les équipes qui trouvent GitHub insuffisant. Connectée nativement à GitHub via webhooks — chaque commit compte.
 
 **Stack :** `React` `Node.js` `WebSocket` `GitHub API` `AI`
