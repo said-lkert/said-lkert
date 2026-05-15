@@ -82,7 +82,7 @@ des ERP d'entreprise jusqu'aux plateformes multi-agents IA.
 <br/>
 
 ### ⚙️ SIT-ERP &nbsp;·&nbsp; `⌛ En cours` 
-[🔗 Voir le repo →](https://github.com/said-lkert/NOM-DU-REPO)
+[🔗 Voir le repo →](https://github.com/said-lkert/sit-erp)
 > **ERP modulaire complet** conçu et développé pour une vraie entreprise de solutions technologiques — de zéro.
 
 **Stack :** `React` `Laravel` `PHP` `MySQL` `REST API` `JWT Auth` `Docker`
